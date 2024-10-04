@@ -2,7 +2,7 @@
 title: Javascript
 description: Javascript
 author: Alexander Martinez Hansen
-date: 2023/05/18
+date: 01/01/2016
 ---
 
-Utilized Javascript for most of my professional software career, paired with Create React App.
+Utilized Javascript during my time at Maxar Technologies and OmniPanel, paired with Create React App.

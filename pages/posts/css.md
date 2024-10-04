@@ -2,7 +2,7 @@
 title: CSS
 description: CSS
 author: Alexander Martinez Hansen
-date: 2023/05/18
+date: 01/01/2016
 ---
 
-Utilized CSS while attending the University of Michigan College of Engineering, during all professional experience (OmniPanel & Maxar Technologies), as well as while developing personal projects.
+Utilized CSS while attending the University of Michigan College of Engineering, during all professional experience (Maxar Technologies and OmniPanel), as well as while developing personal projects.

@@ -23,14 +23,13 @@ async function generate() {
 
       allPosts.push({
         title: frontmatter.data.title,
-        description: frontmatter.data.description,
+        description: frontmatter.data.description
       })
     })
   )
 
-  allPosts.sort((a, b) => new Date(b.date) - new Date(a.date))
   allPosts.forEach((post) => {
-      feed.item(post)
+    feed.item(post)
   })
   await fs.writeFile('./public/feed.xml', feed.xml({ indent: true }))
 }

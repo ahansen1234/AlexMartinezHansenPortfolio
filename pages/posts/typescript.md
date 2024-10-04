@@ -1,8 +1,8 @@
 ---
 title: Typescript
-date: 2023/05/18
 description: Typescript
 author: Alexander Martinez Hansen
+date: 01/01/2023
 ---
 
-Extensively utilized Typescript during personal project building (including a travel-based social media website).
+Extensively utilized Typescript during personal projects (including a travel-based social media website), as well as during my tenure as a Full Stack Developer at TaxHarvest.
